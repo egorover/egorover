@@ -1,4 +1,4 @@
-# Alex Egor | egorover 👋
+# Alex Egorov | egorover 👋
 **AI Solutions Architect & Prompt Engineer**
 
 > *“I don’t just write code; I orchestrate AI to solve complex business puzzles.”*
