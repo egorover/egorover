@@ -9,9 +9,11 @@
 *   **Agentic Workflows:** Building autonomous AI agents with deep API integrations (Global & Russian LLM stacks).
 
 ### 🎯 What I Deliver
+*   **AI Development:** Custom AI assistants and autonomous agents designed to solve specific business problems and automate routine tasks.
 *   **High-End Consulting:** Strategic AI implementation for private & corporate clients.
 *   **Efficiency & Security:** High-performance automation with a strict focus on **data sovereignty and security perimeters**.
 *   **Senior-Level Impact:** Leveraging AI to bypass traditional "Junior" limitations, delivering professional-grade analytics and architecture from day one.
+
 
 ---
 
