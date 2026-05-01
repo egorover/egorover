@@ -4,7 +4,7 @@
 > *“I don’t just write code; I orchestrate AI to solve complex business puzzles.”*
 
 ### 🛠 Tech Stack & Expertise
-*   **AI Development:** Rapid Prototyping & Vibe Coding (Cursor, Hugging Face, LangChain), LLM Orchestration, No-Code Ecosystems(n8n, Tilda).
+*   **AI Development:** Rapid Prototyping & Vibe Coding (Cursor, Hugging Face, LangChain), LLM Orchestration, No-Code Ecosystems (n8n, Tilda).
 *   **Neural Networks:** Expert-level Prompt Engineering across Multimodal Neural Networks.
 *   **Agentic Workflows:** Building autonomous AI agents with deep API integrations (Global & Russian LLM stacks).
 
