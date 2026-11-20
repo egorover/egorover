@@ -17,8 +17,8 @@ My focus is on turning business requirements into understandable, testable, and 
 
 | Project | What it is |
 | --- | --- |
-| [Ego Prompt Library](https://github.com/egorover/ego-prompt-library) | A framework for developing, testing, versioning, and governing reusable AI prompt roles. |
-| [Portfolio & Project Demos](https://egorover.github.io/) | A collection of projects, practical experiments, and available demos. |
+| [EgoBiz Wiki](https://github.com/egorover/ego-biz-wiki) — **AI Business Knowledge Assistant** | A RAG-based assistant for business knowledge retrieval, with a FastAPI backend, Streamlit UI, source attribution, and an evaluated baseline. |
+| [Ego Prompt Library](https://github.com/egorover/ego-prompt-library) — **Prompt Engineering & Governance Framework** | A Python toolkit for developing, validating, testing, versioning, and managing reusable AI prompt roles. |
 
 More project details and demonstrations are available on my [portfolio website](https://egorover.github.io/).
 
