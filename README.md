@@ -1,25 +1,35 @@
-# Alex Egorov | egorover 👋
-**AI Solutions Architect & Prompt Engineer**
+# Alex Egorov | @egorover
 
-> *“I don’t just write code; I orchestrate AI to solve complex business puzzles.”*
+**AI Solutions Architect | AI Automation | Agentic Workflows | RAG**
 
-### 🛠 Tech Stack & Expertise
-*   **AI Development:** Rapid Prototyping & Vibe Coding (Cursor, Hugging Face, LangChain), LLM Orchestration, No-Code Ecosystems (n8n, Tilda).
-*   **Neural Networks:** Expert-level Prompt Engineering across Multimodal Neural Networks.
-*   **Agentic Workflows:** Building autonomous AI agents with deep API integrations (Global & Russian LLM stacks).
+I design, build, and validate practical AI solutions that connect language models, business knowledge, and workflow automation.
 
-### 🎯 What I Deliver
-*   **AI Development:** Custom AI assistants and autonomous agents designed to solve specific business problems and automate routine tasks.
-*   **High-End Consulting:** Strategic AI implementation for private & corporate clients.
-*   **Efficiency & Security:** High-performance automation with a strict focus on **data sovereignty and security perimeters**.
-*   **Senior-Level Impact:** Leveraging AI to bypass traditional "Junior" limitations, delivering professional-grade analytics and architecture from day one.
+My focus is on turning business requirements into understandable, testable, and maintainable solutions — from prototypes and knowledge systems to workflow automation and AI-powered assistants.
 
+## Focus Areas
 
----
+- **AI Automation & Agentic Workflows** — workflow orchestration, AI agents, API integrations, and process automation with tools such as n8n.
+- **RAG & Knowledge Systems** — retrieval-augmented generation, structured knowledge bases, and AI assistants grounded in domain information.
+- **Prompt Engineering & LLM Systems** — reusable prompt roles, structured outputs, evaluation, and integration with different LLM providers.
+- **AI Engineering & Integration** — Python, APIs, validation, testing, and practical prototyping.
 
-### 📈 The Vision
-Building the future of automated consulting, one prompt at a time. I help businesses transform "manual chaos" into "AI-driven clarity."
+## Selected Projects
 
-**📫 Let's connect:**
-[Telegram](https://t.me) | 📧 [gmbox707@gmail.com](mailto:gmbox707@gmail.com)
+| Project | What it is |
+| --- | --- |
+| [Ego Prompt Library](https://github.com/egorover/ego-prompt-library) | A framework for developing, testing, versioning, and governing reusable AI prompt roles. |
+| [Portfolio & Project Demos](https://egorover.github.io/) | A collection of projects, practical experiments, and available demos. |
 
+More project details and demonstrations are available on my [portfolio website](https://egorover.github.io/).
+
+## Working Principles
+
+- **Outcome first:** build useful, working solutions before adding unnecessary complexity.
+- **Reliability:** validate inputs, test important paths, and make limitations explicit.
+- **Maintainability:** prefer clear architecture, versioned artifacts, and reproducible workflows.
+- **Responsible claims:** distinguish implemented functionality from planned or experimental capabilities.
+
+## Contact
+
+- **Portfolio:** https://egorover.github.io/
+- **Email:** [gmbox707@gmail.com](mailto:gmbox707@gmail.com)
